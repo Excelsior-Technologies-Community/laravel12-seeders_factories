@@ -28,6 +28,11 @@ Includes Products, Tags, Multiple Images, Soft Deletes, and Pivot Table relation
 
 ---
 
+📸 Project Screenshots
+
+<img width="1712" height="969" alt="image" src="https://github.com/user-attachments/assets/fa1b1a3f-978d-4cfb-ad2c-70588cf817c8" />
+<img width="1783" height="954" alt="image" src="https://github.com/user-attachments/assets/dea4c5b0-a3e3-41e7-a9b8-f1607e53b2c1" />
+
 ## ⚙️ Installation Steps
 
 ### 1. Clone the repository
@@ -88,11 +93,3 @@ Each product will have:
 1–5 images
 
 1–4 tags
-
-📸 Project Screenshots
-
-<img width="1712" height="969" alt="image" src="https://github.com/user-attachments/assets/fa1b1a3f-978d-4cfb-ad2c-70588cf817c8" />
-<img width="1783" height="954" alt="image" src="https://github.com/user-attachments/assets/dea4c5b0-a3e3-41e7-a9b8-f1607e53b2c1" />
-
-
-
